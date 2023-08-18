@@ -1,0 +1,101 @@
+{
+    "basic_info": {
+      "description_header": "Get to know me",
+      "description": "Hello, I'm Alejandra Altamirano. I'm starting my journey as a 25 year-old Full-stack Developer. I took a pivot in my career from financial fraud prevention to entering the world of tech in hopes of a better work-life balance. I completed my certificate via Code Fellows.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Demon Destroyer 9",
+        "startDate": "2023",
+        "description": "Collaborated on this gameplay point-and-click shooter experience. Immerse yourseld in a captivating dark fantasy world. The game's visuals and ambiance create an atmosphere of suspense, mystery and danger.",
+        "images": [
+          "images/portfolio/DemonD9.png",
+          "images/portfolio/DemonD9Game.png"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Coming Soon",
+        "startDate": "2023",
+        "description": " ",
+        "images": [
+          "images/portfolio/301.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Coming Soon",
+        "startDate": "2023",
+        "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
+        "images": [
+          "images/portfolio/401.png"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Code Fellows",
+        "title": "Full-stack Developer",
+        "years": "06.2023 - present",
+        "mainTech": [
+          "Angular 8/9/10"
+        ],
+        "technologies": [
+          "REST API",
+          "RxJS",
+          "JavaScript",
+          "Bootstrap",
+          "MDBootstrap",
+          "EF Core",
+          ".NET Core",
+          "SignalR",
+          "Angular Material"
+        ]
+      }
+    ]
+  }
