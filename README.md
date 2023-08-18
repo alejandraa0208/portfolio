@@ -1,3 +1,4 @@
-# Modify this portfolio
+# Alejandra Altamirano's Portfolio
 
-Make it your own! 
+Insight to who I am, my projects and experiences. Enjoy!
+
